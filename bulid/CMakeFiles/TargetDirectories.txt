@@ -1,0 +1,8 @@
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/Main1Executable.dir
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/Main2Executable.dir
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/edit_cache.dir
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/rebuild_cache.dir
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/Main1Executable_autogen_timestamp_deps.dir
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/Main1Executable_autogen.dir
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/Main2Executable_autogen_timestamp_deps.dir
+/Users/yahyagoorakani/Documents/parking-project/bulid/CMakeFiles/Main2Executable_autogen.dir
